@@ -13,7 +13,7 @@
 
 - ResearchGate: [https://www.researchgate.net/profile/Mykola-Holovetskyi?ev=hdr_xprf&_sg=8kPxkP-JdehGHH9Wr1Z0tRis3YZ9UKLds555ELNj-uFEpnT4uI5iwudUqqmC41lo5hjR0e2vy5wzfRhWDZubXPGm](https://www.researchgate.net/profile/Mykola-Holovetskyi?ev=hdr_xprf&_sg=8kPxkP-JdehGHH9Wr1Z0tRis3YZ9UKLds555ELNj-uFEpnT4uI5iwudUqqmC41lo5hjR0e2vy5wzfRhWDZubXPGm)
 
-- Worked in **Django, TensorFlow, PyTorch, jQuery, Bootstrap, pyQt, Webstorm, PyCharm.**
+- Worked in **Django, TensorFlow, PyTorch, jQuery, Bootstrap, pyQt, Webstorm.**
 
 - Contact me on: **mykola@null.net**
 
